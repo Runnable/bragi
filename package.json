@@ -1,0 +1,22 @@
+{
+  "name": "@runnable/bragi",
+  "version": "0.1.0",
+  "description": "Runnable Promisified GitHub client with batteries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "runnable",
+    "github"
+  ],
+  "author": "Anton Podviaznikov <anton@runnable.com> (http://www.runnable.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "defaults": "^1.0.3",
+    "github4": "^1.0.0",
+    "monitor-dog": "^1.5.0",
+    "string": "^3.3.1"
+  }
+}
